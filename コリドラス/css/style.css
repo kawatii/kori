@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/*基本レイアウト　ここから↓*/
+
+@import url(common.css);
+
+img.float_right {
+	margin-bottom: 20px;
+	margin-left: 20px;
+	float: right;
+}
+/*基本レイアウト　ここまで↑*/
+
